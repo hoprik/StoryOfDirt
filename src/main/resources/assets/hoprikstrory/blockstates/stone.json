@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "animation=0": { "model": "hoprikstrory:block/stone" },
+    "animation=1": { "model": "hoprikstrory:block/stone_say" },
+    "animation=2": { "model": "hoprikstrory:block/stone_wakeup" }
+  }
+}

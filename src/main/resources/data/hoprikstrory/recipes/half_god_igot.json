@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " G ",
+    "ODC",
+    " I "
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "C": {
+      "item": "minecraft:coal_block"
+    },
+    "I": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "result": {
+    "item": "hoprikstrory:half_god_igot"
+  }
+}
