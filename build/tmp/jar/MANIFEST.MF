@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Implementation-Title: hoprikstrory
+Implementation-Version: 1.0-SNAPSHOT
+Specification-Title: hoprikstrory
+Implementation-Timestamp: 2023-04-11T19:22:22+0300
+Specification-Version: 1
+
